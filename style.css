@@ -134,7 +134,9 @@ select {
 }
 
 .select:hover::after{
-    background: #1ed0ca;
+    background: rgb(11, 212, 162);
     color: white;
 }
+
+
 
